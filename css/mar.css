@@ -1,0 +1,28 @@
+.heading{
+
+    background-color: aqua;
+    height: 100px;
+    font-size: 80px;
+}
+
+.main {
+    width: 70%;
+  
+}
+#thename{
+    height: 20px;
+}
+#theselect{
+    height: 30px;
+    background-color: antiquewhite;
+}
+
+#thelastname{
+    height: 20px;
+    background-color: antiquewhite;
+}
+#theemail{
+    height: 30px;
+    background-color: rgba(209, 184, 184, 0.171);
+    v 
+}
